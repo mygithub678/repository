@@ -72,4 +72,7 @@
 [哔哩哔哩](https://www.bilibili.com)
 [百度](https://www.baidu.com)
 
+## 插入图片
+
+![照片](C:/Users/llenovo/Desktop/研究生入学材料/2120610132.jpg)
 
